@@ -1,6 +1,6 @@
 # Diesterwegstependium
 
-Wir erstellen ein Fangspiel. Das Ziel des Spieles ist es so viele Äpfel wie möglich vor dem Fallen auf den Boden zu schützen. Die kann man durch das Fangen des Apfels mit dem Korb. Jeder Gefangene Apfel gibt ein Punkt und jeder Apfel, der Auf den Boden fällt, entfernt einen der 10 Leben. 
+Wir erstellen ein Fangspiel. Das Ziel des Spieles ist es so viele Äpfel wie möglich vor dem Fallen auf den Boden zu schützen. Dies kann man durch das Fangen des Apfels mit dem Korb. Jeder gefangene Apfel gibt ein Punkt und jeder Apfel, der Auf den Boden fällt, entfernt einen der 10 Leben. 
 
 Starbildschirm:
 
